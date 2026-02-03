@@ -17,3 +17,17 @@ python -m venv venv
 venv\Scripts\activate
 pip install -r requirements.txt
 python first_strategy.py
+
+## 3 下一步
+ 
+加止损/止盈
+ 
+参数优化（网格搜索）
+ 
+多标的轮动
+ 
+把回测记录写成博客
+
+## 4 今日感悟
+年轻时没做规划，现在才动手，但跑通第一行回测的那一刻，我知道——
+最好的开始，就是现在。
